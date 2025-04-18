@@ -1,0 +1,26 @@
+
+🔹Sign Up Page
+Full Name – Required, no numbers/special characters
+
+Email – Required, must be in valid format (abc@gmail.com)
+
+Password – Required, min 6 characters
+
+Confirm Password – Required, must match password
+
+Phone Number – Only numbers allowed, 10 digits
+
+Role Dropdown – Required
+
+🔹 Forgot Password
+Email – Required, must be valid format, must exist in system
+
+🔹 Sign In with OTP
+Email – Required, valid format
+
+OTP Field – Required, only numbers, 6 digits
+
+🔹 Login
+Email – Required, must be valid format
+
+Password – Required
