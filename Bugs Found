@@ -1,0 +1,9 @@
+Bug 1: On Sign Up, entering space-only values does not show validation error (should show "Field required").
+
+Bug 2: Password and Confirm Password mismatch doesn't give clear error message.
+
+Bug 3: Forgot password – even with wrong email, sometimes it shows "OTP sent" (should say "email not found").
+
+Bug 4: OTP screen does not auto-focus or clearly indicate OTP input field.
+
+Bug 5: Error message style is inconsistent (some show in red text, some in popups).
